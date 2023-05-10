@@ -24,7 +24,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-## Assignment Requirements 
+## Assignment Requirements
 
 For this assignment, you are asked to use Angular to create a
 sortable, searchable table that displays fetched satellite information. The
@@ -46,21 +46,20 @@ After running the tests, your TA will check your code for the following:
 1. Does your project display the data shown in the demo app?
 
    a. The satellite data should be from the fetch request, rather than from
-      the hard-coded starter array. (No "Weber Grill"!)
+   the hard-coded starter array. (No "Weber Grill"!)
 
    b. The Satellite Counts component displays a total number of `9`.
-   
-   c. The "Space Debris" cell under the "Type" column should be highlighted red. 
+
+   c. The "Space Debris" cell under the "Type" column should be highlighted red.
 
 1. That the search and sort features work.
 
-    a. If they click on the "Name" heading, are the satellites sorted
-    alphabetically? What happens when they click the "Type" heading? 
-   
-    b. Is the search functionality case-insensitive and does it correctly
-    filter the data displayed in the table based on the "Name" passed in? What happens if they empty the search box and hit "Enter"?
+   a. If they click on the "Name" heading, are the satellites sorted
+   alphabetically? What happens when they click the "Type" heading?
+
+   b. Is the search functionality case-insensitive and does it correctly
+   filter the data displayed in the table based on the "Name" passed in? What happens if they empty the search box and hit "Enter"?
 
 1. Verify that the numbers change when a search filters the table.
 
 When you are done with the assignment, submit the link to your repository on Canvas.
-
